@@ -20,7 +20,7 @@ The project steps include:
 
 ## Contributors
 
-- Danish and Andrea
+- Danish and Andrea equal in contribution as we have helped one another to complete the tasks given to us.
 
 ## Problem Definition
 
