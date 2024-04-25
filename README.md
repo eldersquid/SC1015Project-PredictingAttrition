@@ -67,7 +67,7 @@ The machine learning problem is set up as a classification problem - Will an emp
 
 
 ## References
-- [2021 US Bureau of Labor Statistics](https://www.bls.gov/news.release/archives/jolts_03092022.pdf)
+- [2021/2022 US Bureau of Labor Statistics](https://www.bls.gov/news.release/archives/jolts_03092022.pdf)
 - [Kaggle - HR Analytics: Employee Attrition Prediction](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction/data)
 - [SMOTE: Synthetic Minority Over-sampling Technique](https://jair.org/index.php/jair/article/view/10302)
 - [Precision, recall, F1 score](https://en.wikipedia.org/wiki/Precision_and_recall)
